@@ -1,0 +1,16 @@
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.exe
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.dll
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.csproj.AssemblyReference.cache
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.dll
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\refint\ChatServer.dll
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+D:\Edu\4 kurs\Altufiev\Net Apps\Chat\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
